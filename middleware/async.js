@@ -1,0 +1,3 @@
+const asyncWrapper = (req, res) => {
+
+}
